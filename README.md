@@ -24,6 +24,7 @@ I operate both Linux🐧 and Windows🪟 for a better ecosystem with my projects
 
 If you want to contact me feel free to do some
 by going to my personal site(in the description)
+or on this [link](https://durantialex.vercel.app/#contact)
 and at the bottom there is a form for contact
 
 
